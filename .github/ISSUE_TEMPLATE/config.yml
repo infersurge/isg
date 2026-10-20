@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 产品官网
+    url: https://infersurge.com
+    about: 了解产品、定价与接入方式
+  - name: 控制台
+    url: https://app.infersurge.com
+    about: 登录、添加设备、查看用量
+  - name: 安全问题（请勿公开披露）
+    url: mailto:security@infersurge.com
+    about: 安全漏洞请私下报告，不要开公开 ISSUE
